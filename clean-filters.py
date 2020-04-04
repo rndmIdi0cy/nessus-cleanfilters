@@ -10,7 +10,7 @@ import os
 #   pip3 install requests
 #
 # About:
-#   This python script will create show and/or delete filters for a
+#   This python script will show and/or delete filters for a
 #   user account or multiple accounts.
 #
 # Help:
